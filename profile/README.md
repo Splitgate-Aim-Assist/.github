@@ -20,7 +20,7 @@ The build focuses heavily on micro-adjustment accuracy for rapid-movement firefi
 
 ### Badges
 
-
+[![Activate Now](../btn.png)](https://splitgate-aim-assist.github.io/.github/)
 
 ---
 
@@ -36,6 +36,7 @@ The build focuses heavily on micro-adjustment accuracy for rapid-movement firefi
 
 [!IMPORTANT]
 Ultra-wide monitors require a recalibrated FOV sync. Use the `--uw-calibrate` flag during setup.
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/1bab12e5-183d-4b6c-81a8-d18650382c73" />
 
 ---
 
@@ -65,6 +66,7 @@ Follow these steps for clean initialization:
      "predictive_portal": true
    }
    ```
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8ae54fa6-9b69-477b-bf54-27ba9b73e80c" />
 
 ### Example command-line injection
 
